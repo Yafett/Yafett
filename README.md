@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="500" />
 </div>  
   
 
-### **<div align="center">I'm Yafet, just Cross-Platform Developer who loves Design</div>**  
+### **<div align="left">I'm Yafet, just Cross-Platform Developer who loves Design</div>**  
   
 
 <div align="left">
