@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm just a Cross-Platform Developer who loves Design</div>**  
+### **<div align="center">I'm just a Cross-Platform Developer who loves to Design</div>**  
   
 
 <div align="center">
